@@ -1,0 +1,34 @@
+1.
+A probability distribution is a statistical function that describes all the possible values and likelihoods
+ that a random variable can take within a given range.Random event/process/variable: an event/process that is not and cannot be made exact and, consequently, whose outcome cannot be predicted, 
+e.g., the sum of the numbers on two rolled dice.
+2.
+The difference between PRNG and TRNG is deterministic, PRNG is a deterministic random number generator, and TRNG is a non-deterministic random number generator.
+ PRNG generates a long-length random number using algo- rithms based on a short initial value.However,there are some use cases where a seemingly random number 
+that can be predicted is simply not good enough.
+3.
+The two factors of probability distribution which are used for different purposes and various types of the data generation process.
+Normal or Cumulative Probability Distribution.
+Binomial or Discrete Probability Distribution.
+4.
+Normal distributions are important in statistics and are often used in the natural and social sciences 
+to represent real-valued random variables whose distributions are not known to us.
+5.
+In a probability distribution , the weighted average of possible values of a random variable, 
+with weights given by their respective theoretical probabilities, is known as the expected value , usually represented by E(x) .
+IncGrowth in  size will make  more likely to find a statistically significant effect, but statistical significance does not mean practical significance.
+6.
+1.Description. The shuffle() method randomizes the items of a list in place.
+2.Syntax. Following is the syntax for shuffle() method − shuffle (lst,[random]) ...
+3.Parameters. lst − This could be a list or tuple. ...
+4.Return Value. This method returns reshuffled list.
+5.Example.....
+6.Output.
+7.
+An expression, rule, or law that defines a relationship between one variable (the independent variable) 
+and another variable (the dependent variable). Functions are ubiquitous in mathematics and are essential for formulating physical relationships in the sciences.
+8.
+The logarithmic and exponential systems both have mutual direct relationship mathematically. So,
+ the knowledge on the exponentiation is required to start studying the logarithms because the logarithm is an inverse operation of exponentiation.
+9.
+a base, an argument and an answer (also called power).
